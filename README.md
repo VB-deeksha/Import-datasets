@@ -1,6 +1,6 @@
 # Data analysis Lab- 1
 
-## Objectives pf Imporingt-datasets
+## Objectives of Imporingt-datasets
 
  • Acquire data in various ways
  
